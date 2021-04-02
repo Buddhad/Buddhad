@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+---
   <a href="https://github.com/Buddhad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhad&theme=light&hide_langs_below=1" />
 </a>
