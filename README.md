@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I spend almost 5 hours to Watch Anime everyday..
 -->
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Buddhad Spotify Playing" width="350" />](https://open.spotify.com/user/d6je1nmh2s160zol2x9tqce42)
+
 
 ### Connect with me:
 
@@ -41,14 +45,19 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Buddhad&show_icons=true&hide_border=true" />
-
-</details>
+  <a href="https://github.com/Buddhad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhad&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Buddhad">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Buddhad&show_icons=true&theme=light&line_height=27" alt="Buddhadeb's github stats"/>
+</a>
 
 [website]: https://
 [twitter]: https://twitter.com/BuddhadebChhet3
 [instagram]: https://instagram.com/devbuddho
 [linkedin]: https://linkedin.com/in/buddhadeb-chhetri-b4a77a191
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
