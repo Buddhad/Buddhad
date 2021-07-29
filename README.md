@@ -1,44 +1,26 @@
 ### Hi there , I'm Buddhadeb Chhetri 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/techakhil/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/BuddhadebChhet3)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/buddhadebchhetri)
 
-<!--
-**Buddhad/Buddhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭  I’m currently working on Unity..
+- 🔭  I’m currently working on UnityGames.
 - 🌱 I’m currently learning Java GUI.
 - 🤔 I’m looking for help with MySQL.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I spend almost 5 hours to Watch Anime everyday..
--->
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Buddhad Spotify Playing" width="350" />](https://open.spotify.com/user/d6je1nmh2s160zol2x9tqce42)
-
+- ⚡ Fun fact: No number before 1,000 contains the letter A.
 
 ### Connect with me:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Buddhad&label=Views&color=blue&style=plastic" alt="Buddhad" /> </p>
-
-<a href="https://twitter.com/BuddhadebChhet3">
-  <img align="left" alt="Buddhadeb's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/buddhadeb-chhetri-b4a77a191">
-  <img align="left" alt="Buddhadeb's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Buddhad">
-  <img align="left" alt="Buddhadeb's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://instagram.com/devbuddho/">
-  <img align="left" alt="Buddhadeb's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/imthepkbuddho.dev.129/">
-  <img align="left" alt="Buddhadeb's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
+<a href="https://www.facebook.com/imthepkbuddho.dev.129/" target="blank" ><img class="social" id="fb" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463311020130304/facebook.png"></img></a>
+<a href="https://discord.com/users/503410337488306195" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463308030640128/discord.png"></img></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=buddhadebchhetri6@gmail.com&su=Portfolio - I have something for you&body=excited to know you" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463313943691304/gmail.png"></img></a>
+<a href="https://www.linkedin.com/in/buddhadeb-chhetri-b4a77a191/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463319547412521/linkedin.png"></img></a>
+<a href="https:https://instagram.com/devbuddho/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463317047345182/instagram.png"></img></a>
+<a href="https://twitter.com/BuddhadebChhet3" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775394227617660948/twitter.png"></img></a>
+<a href="https://codepen.io/buddhad" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775398802442027048/codepen.png"></img></a>
 <br/>
 <br/>
 
@@ -63,8 +45,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/Buddhad">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Buddhad&show_icons=true&theme=light&line_height=27" alt="Buddhadeb's github stats"/>
 </a>
-<div align="center">
 
+<div align="center">
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
