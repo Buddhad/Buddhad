@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/buddhadebchhetri)
 
 - 🔭  I’m currently working on UnityGames.
-- 🌱 I’m currently learning Java GUI.
+- 🌱 I’m currently learning C#.
 - 🤔 I’m looking for help with MySQL.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/His.
