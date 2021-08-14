@@ -1,5 +1,5 @@
 ### Hi there , I'm Buddhadeb Chhetri 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buddhadeb-chhetri/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buddhadebchhetri/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Buddhadeb01)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/buddhadebchhetri)
@@ -13,14 +13,14 @@
 
 ### Connect with me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Buddhad&label=Views&color=blue&style=plastic" alt="Buddhad" /> </p>
-<a href="https://www.facebook.com/imthepkbuddho.dev.129/" target="blank" ><img class="social" id="fb" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463311020130304/facebook.png"></img></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Buddhad&label=Views&color=blue&style=plastic" alt="Buddhadeb Chhetri" /> </p>
+<a href="https://www.facebook.com/buddhadebChhetri/" target="blank" ><img class="social" id="fb" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463311020130304/facebook.png"></img></a>
 <a href="https://discord.com/users/503410337488306195" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463308030640128/discord.png"></img></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=buddhadebchhetri6@gmail.com&su=Portfolio - I have something for you&body=excited to know you" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463313943691304/gmail.png"></img></a>
-<a href="https://www.linkedin.com/in/buddhadeb-chhetri-b4a77a191/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463319547412521/linkedin.png"></img></a>
-<a href="https:https://instagram.com/devbuddho/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463317047345182/instagram.png"></img></a>
-<a href="https://twitter.com/BuddhadebChhet3" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775394227617660948/twitter.png"></img></a>
-<a href="https://codepen.io/buddhad" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775398802442027048/codepen.png"></img></a>
+<a href="https://www.linkedin.com/in/buddhadebchhetri/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463319547412521/linkedin.png"></img></a>
+<a href="https://www.instagram.com/buddhadebchhetri/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463317047345182/instagram.png"></img></a>
+<a href="https://twitter.com/Buddhadeb01" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775394227617660948/twitter.png"></img></a>
+<a href="https://codepen.io/buddhadebchhetri" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775398802442027048/codepen.png"></img></a>
 <br/>
 <br/>
 
