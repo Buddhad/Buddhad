@@ -45,11 +45,15 @@
 
 
 <a href="https://github.com/Buddhad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhad&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhad&theme=merko&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Buddhad">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Buddhad&show_icons=true&theme=light&line_height=27" alt="Buddhadeb's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhad&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Buddhadeb's github stats"/>
 </a>
+
+- Compact layout
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/Buddhad/github-readme-stats)
 
 <div align="center">
   
