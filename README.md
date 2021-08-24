@@ -56,11 +56,11 @@
 [![buddhadebchhetri's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=buddhadebchhetri&layout=compact)](https://github.com/Buddhad/github-readme-stats)
 
 
-```markdown
-# Blog posts
+
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-```
+
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
