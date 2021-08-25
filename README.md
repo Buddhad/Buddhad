@@ -41,7 +41,7 @@
 <code><img height="50" src="https://unity.com/logo-unity-web.png"></code>
 <code><img height="50" src="https://cdn.mos.cms.futurecdn.net/Ju3ceiZzGSSQacR2juGN98.png"></code>
 <code><img height="50" src="https://www.thoughtco.com/thmb/hIHa_mf_Huj1_2q5nl8wXsCiKMQ=/4321x2419/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-java-5b4bda1cc9e77c0037171617.jpg"></code>
-<code><img height="50" src="https://flutter.dev/images/catalog-widget-placeholder.png"></code>
+<code><img height="50" src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg"></code>
 
 
 <a href="https://github.com/Buddhad">
