@@ -44,19 +44,15 @@
 <code><img height="50" src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg"></code>
 
 
-<a href="https://github.com/Buddhad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhad&theme=merko&hide_langs_below=1" />
-</a>
-<a href="https://github.com/Buddhad">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhad&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Buddhadeb's github stats"/>
-</a>
+## 🏆 Github Status
 
-- Compact layout
-
-[![buddhadebchhetri's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=buddhadebchhetri&layout=compact)](https://github.com/Buddhad/github-readme-stats)
-
-
-
+<p align="left">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhad&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhad&theme=synthwave">
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Buddhad&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<div align="center">
+  
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -64,6 +60,8 @@
 <br>
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring ⭐ some of the repositories!
 ![](https://hit.yhype.me/github/profile?user_id=71445997)
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 </div>
