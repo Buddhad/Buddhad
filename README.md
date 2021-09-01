@@ -11,18 +11,25 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: No number before 1,000 contains the letter A.
 
-### Connect with me:
+
+<h2 align="center">Connect with me<img  src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
+<div align="center" >
+  
+<a href="https://github.com/Buddhad" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/buddhadebchhetri" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/buddhadebChhetri/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/buddhadebchhetri/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Buddhad&label=Views&color=blue&style=plastic" alt="Buddhadeb Chhetri" /> </p>
-<a href="https://www.facebook.com/buddhadebChhetri/" target="blank" ><img class="social" id="fb" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463311020130304/facebook.png"></img></a>
-<a href="https://discord.com/users/503410337488306195" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463308030640128/discord.png"></img></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=buddhadebchhetri6@gmail.com&su=Portfolio - I have something for you&body=excited to know you" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463313943691304/gmail.png"></img></a>
-<a href="https://www.linkedin.com/in/buddhadebchhetri/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463319547412521/linkedin.png"></img></a>
-<a href="https://www.instagram.com/buddhadebchhetri/" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/767463317047345182/instagram.png"></img></a>
-<a href="https://twitter.com/Buddhadeb01" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775394227617660948/twitter.png"></img></a>
-<a href="https://codepen.io/buddhadebchhetri" target="blank"><img class="social" width="50px" src="https://cdn.discordapp.com/attachments/765973145852575746/775398802442027048/codepen.png"></img></a>
-<br/>
-<br/>
 
 ### Languages and Tools:
 
