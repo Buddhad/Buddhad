@@ -4,9 +4,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Buddhadeb01)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/buddhadebchhetri)
 
-- 🔭  I’m currently working on UnityGames.
+- 🔭  I’m currently working on Nodejs.
 - 🌱 I’m currently learning C#.
-- 🤔 I’m looking for help with MySQL.
+- 🤔 I’m looking for help with Redis.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: No number before 1,000 contains the letter A.
