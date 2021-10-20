@@ -1,5 +1,6 @@
-### Hi there , I'm Buddhadeb Chhetri 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buddhadebchhetri/)
+# Hi there, I'm Buddhadeb Chhetri 👋
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buddhadebchhetri/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://buddhadebchhetri.bio.link/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Buddhadeb01)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/buddhadebchhetri)
@@ -10,7 +11,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: No number before 1,000 contains the letter A.
-
 
 <h2 align="center">Connect with me<img  src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
 <div align="center" >
@@ -26,14 +26,13 @@
 </a>
 <a href="https://www.instagram.com/buddhadebchhetri/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Buddhad&label=Views&color=blue&style=plastic" alt="Buddhadeb Chhetri" /> </p>
+</a>
+</div>
 
 ## ⚡ Technologies
 
-### Language :
+### Languages
+
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -43,7 +42,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-### Libraries & Framework :
+### Libraries & Framework
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -54,7 +53,7 @@
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 
-### DevOps & Cloud Tools:
+### DevOps & Cloud Tools
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
@@ -66,17 +65,18 @@
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 
-## 📈 Github Stats
+## 📈 GitHub Stats
 
 <p align="center">
-	
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Buddhad&show_icons=true&theme=synthwave" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhad&theme=synthwave" />
 </p>
   <img src="https://activity-graph.herokuapp.com/graph?username=Buddhad&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 <div align="center">
   
-### Show some ❤️ by starring ⭐ some of the repositories!
+## Show some ❤️ by starring ⭐ some of the repositories
+
 ![](https://hit.yhype.me/github/profile?user_id=71445997)
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
