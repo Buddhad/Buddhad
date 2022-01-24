@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Dart.
 - 🤔 I’m looking for help with UI/UX.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
-- 😄 Pronouns: He/His.
+- 😄 Pronouns: They/Them.
 - ⚡ Fun fact: "I Am" is the shortest complete sentence in the English language..
 
 <h2 align="center">Connect with me<img  src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
