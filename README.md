@@ -1,16 +1,6 @@
 # Hi there, I'm Buddhadeb Chhetri 👋
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buddhadebchhetri/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://buddhadebchhetri.bio.link/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Buddhadeb01)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/buddhadebchhetri)
-
-- 🔭  I’m currently working on Flutter.
-- 🌱 I’m currently learning Dart.
-- 🤔 I’m looking for help with UI/UX.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: "I Am" is the shortest complete sentence in the English language..
+<img src=https://cdn.discordapp.com/attachments/926055068271251467/940294912950276196/BuddhadebChhetri_Github_Banner.png alt=github style="margin-bottom: 5px;" />
+</a>
 
 <h2 align="center">Connect with me<img  src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
 <div align="center" >
@@ -51,7 +41,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+
 
 ### DevOps & Cloud Tools
 
@@ -60,19 +50,20 @@
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+
+
 
 ## 📈 GitHub Stats
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Buddhad&show_icons=true&theme=synthwave" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhad&theme=synthwave" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Buddhad&show_icons=true&theme=algolia" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhad&theme=algolia" />
 </p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Buddhad&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Buddhad&bg_color=050F2C&color=00ADFE&line=149347&point=E1E8EB">
 <div align="center">
   
 ## Show some ❤️ by starring ⭐ some of the repositories
