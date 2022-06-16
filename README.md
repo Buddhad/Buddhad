@@ -2,7 +2,7 @@
 <img src=https://cdn.discordapp.com/attachments/926055068271251467/940300403273252974/BuddhadebChhetri_Github_Banner.png alt=github style="margin-bottom: 5px;" />
 </a>
 
-<h2 align="center">Connect with me<img  src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
+<h2 align="center">Connect with me</h2>
 <div align="center" >
   
 <a href="https://github.com/Buddhad" target="_blank">
