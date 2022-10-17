@@ -74,8 +74,3 @@
 <div align="center">
   
 ## Show some ❤️ by starring ⭐ some of the repositories
-
-![](https://hit.yhype.me/github/profile?user_id=71445997)
-  <img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-</div>
