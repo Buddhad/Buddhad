@@ -69,5 +69,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhad&theme=algolia" />
 </p>
   
-  
-## Show some ❤️ by starring ⭐ some of the repositories
+  <p align ="center">
+Show some ❤️ by starring ⭐ some of the repositories
+  </p>
