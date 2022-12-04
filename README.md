@@ -68,7 +68,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Buddhad&show_icons=true&theme=algolia" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhad&theme=algolia" />
 </p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Buddhad&bg_color=050F2C&color=00ADFE&line=149347&point=E1E8EB">
-<div align="center">
+  
   
 ## Show some ❤️ by starring ⭐ some of the repositories
