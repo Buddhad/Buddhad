@@ -1,6 +1,5 @@
 # Hi there, I'm Buddhadeb Chhetri 👋
-<img src=https://cdn.discordapp.com/attachments/926055068271251467/940300403273252974/BuddhadebChhetri_Github_Banner.png alt=github style="margin-bottom: 5px;" />
-</a>
+![BuddhadebChhetriBanner](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bbx7q9w0zmsvrii9x38g.png)
 
 <h2 align="center">Connect with me</h2>
 <div align="center" >
