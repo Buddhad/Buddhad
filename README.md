@@ -59,13 +59,6 @@
 ![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Buddhad&show_icons=true&theme=algolia" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhad&theme=algolia" />
-</p>
   
   <p align ="center">
 Show some ❤️ by starring ⭐ some of the repositories
